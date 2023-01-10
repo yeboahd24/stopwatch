@@ -20,6 +20,6 @@ A simple stopwatch app built with HTML, Tailwind CSS, JavaScript, and Django.
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/stopwatch.git
+git git@github.com:yeboahd24/stopwatch.git
 cd stopwatch
 # stopwatch
